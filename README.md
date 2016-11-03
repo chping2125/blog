@@ -1,7 +1,7 @@
 blog
 ====
 
-my personal blog
+[xufei's personal blog](https://github.com/xufei/blog)
 
 # 目录
 

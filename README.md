@@ -18,6 +18,7 @@ blog
 #### - [浴火重生的Angular](https://github.com/xufei/blog/issues/9)
 #### - [后Angular时代二三事](https://github.com/xufei/blog/issues/21)
 #### - [优化Angular应用的性能](https://github.com/xufei/blog/issues/23)
+#### - [Angular 1.x和ES6的结合](https://github.com/xufei/blog/issues/29)
 
 #### - [［翻译］有关Angular 2.0的一切](https://github.com/xufei/blog/issues/8)
 #### - [［翻译］Angular的问题](https://github.com/xufei/blog/issues/15)
@@ -37,6 +38,8 @@ blog
   
 #### - [老码农的技术理想](https://github.com/xufei/blog/issues/16)
 #### - [未来Web应用的前端技术选型畅想](https://github.com/xufei/blog/issues/24)
+#### - [十年来感受的前端技术变化](https://github.com/xufei/blog/issues/28)
+#### - [关于新框架的学习](https://github.com/xufei/blog/issues/33)
 #### - [今年搞的一些活动的意图](https://github.com/xufei/blog/issues/13)
 #### - [企业文化与价值观 — 给新员工的一封信](https://github.com/xufei/blog/issues/12)
 #### - [给一位打算从事前端，但是又有疑惑的在校大学生的回信](https://github.com/xufei/blog/issues/4)
